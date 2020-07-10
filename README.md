@@ -12,6 +12,7 @@ Open the picture in a hex editor and search for two null bytes.
 ![hex_editor](https://github.com/Cronic7/HTS-STEGO/blob/master/file/hex.PNG)
 
 converting 16 to binary shows 0 as least significant bit
+
 Binary convertor link [here](https://www.rapidtables.com/convert/number/hex-to-binary.html)
 
 ![hex to binary](https://github.com/Cronic7/HTS-STEGO/blob/master/file/16.PNG)
@@ -37,6 +38,44 @@ Binary to ASCII convertor link [here](https://www.binaryhexconverter.com/binary-
 |00110110|6|
 
 Password = **837has6**
+
+----
+
+# Mission level 2
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/2)
+
+![Mission 2](https://www.hackthissite.org/missions/stego/lvl/2.wav)
+
+**HINT**:did I hear that correctly?  
+# solution
+Download the audio file.
+Audio file consist of whitenoise.
+Use Audacity and view the spectrogram of the audio wave.
+you will find the password.
+
+
+Password = **jb298abc9qb2**
+
+----
+
+# Mission level 3
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/3)
+
+![Mission 3](https://www.hackthissite.org/missions/stego/lvl/3.bmp)
+
+**HINT**:Look carefully: it's obvious, just not at first sight 
+# solution
+Open the photo in Forensically website.
+
+Forensically link [here](https://29a.ch/photo-forensics/#forensic-magnifier)
+
+Check the principal analysis conponent.
+you will find the password.
+
+
+
+
+Password = **n38f298hsjf**
 
 ----
 
