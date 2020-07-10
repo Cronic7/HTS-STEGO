@@ -49,8 +49,11 @@ Challenge link [here](https://www.hackthissite.org/missions/playit/stego/2)
 **HINT**:did I hear that correctly?  
 # solution
 Download the audio file.
+
 Audio file consist of whitenoise.
+
 Use Audacity and view the spectrogram of the audio wave.
+
 you will find the password.
 
 
@@ -97,6 +100,20 @@ Convert the binary to ascii
 Password = **p68cq1hb**
 
 ----
+
+# Mission level 5
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/5)
+
+![Mission 6](https://www.hackthissite.org/missions/stego/lvl/stego5.bmp)
+
+**HINT**:  
+# solution
+ 
+
+
+Password = **hgbvZw07**
+
+----
 # Mission level 6
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/6)
 
@@ -112,6 +129,19 @@ code=Tm90IGxpa2UgaXQncyBoYXJkIHRvICdkZWNyeXB0JyB0aGlzIGh1aD8gVGhlIHBhc3N3b3JkIGl
 Decode this code with Base64 decoder\
 
 Decoded=Not like it's hard to 'decrypt' this huh? The password is hgbvZw07.
+
+
+Password = **hgbvZw07**
+
+----
+# Mission level 7
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/7)
+
+[Mission 6](https://www.hackthissite.org/missions/stego/lvl/stego7.zip)
+
+**HINT**:  
+# solution
+ 
 
 
 Password = **hgbvZw07**
