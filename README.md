@@ -104,7 +104,7 @@ Password = **p68cq1hb**
 # Mission level 5
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/5)
 
-![Mission 6](https://www.hackthissite.org/missions/stego/lvl/stego5.bmp)
+![Mission 5](https://www.hackthissite.org/missions/stego/lvl/stego5.bmp)
 
 **HINT**:  
 # solution
@@ -137,13 +137,51 @@ Password = **hgbvZw07**
 # Mission level 7
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/7)
 
-[Mission 6](https://www.hackthissite.org/missions/stego/lvl/stego7.zip)
+[Mission 7](https://www.hackthissite.org/missions/stego/lvl/stego7.zip)
+
+**HINT**:  
+# solution
+
+DOwnload and extract the zip file.
+
+It is a .tif extension.
+
+Open the file in photoshop.You will find three layers of the image.
+
+turn off the first layer you will get the password.
+
+
+ 
+Password = **4aH5CEta**
+
+----
+# Mission level 8
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/8)
+
+![Mission 8](https://www.hackthissite.org/missions/stego/lvl/stego8.bmp)
+
+**HINT**:  
+# solution
+Open the picture in hex editor.
+
+scroll to the middle.
+
+You will find= p��a��s��s��w��o��r��d��=��Y��r��R��o��t��7
+
+
+Password = **YrRot7**
+
+----
+# Mission level 9
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/9)
+
+Download file[link](https://www.hackthissite.org/missions/stego/lvl/Stego9.zip)
 
 **HINT**:  
 # solution
  
 
 
-Password = **hgbvZw07**
+Password = **YrRot7**
 
 ----
