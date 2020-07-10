@@ -44,7 +44,7 @@ Password = **837has6**
 # Mission level 2
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/2)
 
-![Mission 2](https://www.hackthissite.org/missions/stego/lvl/2.wav)
+Download file link [here](https://www.hackthissite.org/missions/stego/lvl/2.wav)
 
 **HINT**:did I hear that correctly?  
 # solution
@@ -175,7 +175,7 @@ Password = **YrRot7**
 # Mission level 9
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/9)
 
-Download file[link](https://www.hackthissite.org/missions/stego/lvl/Stego9.zip)
+Download file link [here](https://www.hackthissite.org/missions/stego/lvl/Stego9.zip)
 
 **HINT**:  
 # solution
