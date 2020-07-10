@@ -55,6 +55,6 @@ Convert the binary to ascii
 
 ![Binary to ascii](https://github.com/Cronic7/HTS-STEGO/blob/master/file/lvl4a.PNG)
 
-Password = **8p68cq1hb**
+Password = **p68cq1hb**
 
 ----
