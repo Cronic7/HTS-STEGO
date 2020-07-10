@@ -1,5 +1,6 @@
 # HTS-STEGO
 Hack this site stego solution
+# Mission level 1
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/1)
 
 ![Mission 1](https://github.com/Cronic7/HTS-STEGO/blob/master/file/a.png?raw=true)
