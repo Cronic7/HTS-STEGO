@@ -58,3 +58,14 @@ Convert the binary to ascii
 Password = **p68cq1hb**
 
 ----
+# Mission level 5
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/5)
+
+![Mission 5](https://www.hackthissite.org/missions/stego/lvl/stego5.bmp)
+
+**HINT**:  
+# solution
+
+Password = **p68cq1hb**
+
+----
