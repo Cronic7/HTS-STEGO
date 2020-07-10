@@ -58,14 +58,23 @@ Convert the binary to ascii
 Password = **p68cq1hb**
 
 ----
-# Mission level 5
-Challenge link [here](https://www.hackthissite.org/missions/playit/stego/5)
+# Mission level 6
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/6)
 
-![Mission 5](https://www.hackthissite.org/missions/stego/lvl/stego5.bmp)
+![Mission 6](https://www.hackthissite.org/missions/stego/lvl/stego6.png)
 
 **HINT**:  
 # solution
+Extract the strings from the picture
+Check the strings you will find code that looks like it is encoded in Base64
 
-Password = **p68cq1hb**
+code=Tm90IGxpa2UgaXQncyBoYXJkIHRvICdkZWNyeXB0JyB0aGlzIGh1aD8gVGhlIHBhc3N3b3JkIGlzIGhnYnZadzA3Lg==
+
+Decode this code with Base64 decoder\
+
+Decoded=Not like it's hard to 'decrypt' this huh? The password is hgbvZw07.
+
+
+Password = **hgbvZw07**
 
 ----
