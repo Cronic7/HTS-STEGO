@@ -2,7 +2,7 @@
 Hack this site stego solution
 Challenge link [here](https://www.hackthissite.org/missions/playit/stego/1)
 
-![Mission 1](files/a.bmp)
+![Mission 1](file/a.bmp)
 
 **HINT**: This is an encoded message, the only tip you get is '2 null bytes'
 
