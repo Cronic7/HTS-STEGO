@@ -39,3 +39,32 @@ Binary to ASCII convertor link [here](https://www.binaryhexconverter.com/binary-
 Password = **837has6**
 
 ----
+# Mission level 1
+Challenge link [here](https://www.hackthissite.org/missions/playit/stego/1)
+
+![Mission 1](https://github.com/Cronic7/HTS-STEGO/blob/master/file/a.png?raw=true)
+
+**HINT**: This is an encoded message, the only tip you get is '2 null bytes'
+# solution
+
+Password = **837has6**
+
+----
+# Mission level 4
+Challenge link [here](https://www.hackthissite.org/missions/stego/template.php)
+
+![Mission 4](https://github.com/Cronic7/HTS-STEGO/blob/master/file/a.png?raw=true)
+
+**HINT**: I am being hexed!.
+# solution
+Open the picture in a hex editor and scroll down to bottom.
+
+![hex_editor](https://github.com/Cronic7/HTS-STEGO/blob/master/file/hex.PNG)
+
+Convert the binary to ascii
+
+![Binary to ascii](https://github.com/Cronic7/HTS-STEGO/blob/master/file/as.PNG?raw=true)
+
+Password = **8p68cq1hb**
+
+----
