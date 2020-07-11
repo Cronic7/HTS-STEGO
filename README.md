@@ -177,11 +177,38 @@ Challenge link [here](https://www.hackthissite.org/missions/playit/stego/9)
 
 Download file link [here](https://www.hackthissite.org/missions/stego/lvl/Stego9.zip)
 
-**HINT**:  
+**HINT**: kiss me alone 
 # solution
+ Peform spectrum analysis of the song.
+ You will find long and small dashes in the soundtrack.
+ 
+Spectrum analyser link [here](https://academo.org/demos/spectrum-analyzer/)
+
+It is morse code .Taking small dash as a dot(.), large dash as (-), small space as space and large space as (/). On decoding, we get the following Morse code.
+
+".---- ----- --... / ..... -.... / .---- ..--- ----- / ....- ---.. / .---- .---- ----. / ..... ...-- / ----. ---.. / ----. ---.. / .---- .---- --... / .---- .---- ...--
+"
+
+Decoding the moorse code we get
+
+
+morse code decoder link [here](http://www.unit-conversion.info/texttools/morse-code/)
+
+
+107 56 120 48 119 53 98 98 117 113
+
+convert the decimal into ascii
+
+
+Decimal to ascii converter link [here](https://onlineasciitools.com/convert-decimal-to-ascii)
+
+Password=k8x0w5bbuq
+
+
+
  
 
 
-Password = **YrRot7**
+Password = **k8x0w5bbuq**
 
 ----
