@@ -189,7 +189,7 @@ It is morse code .Taking small dash as a dot(.), large dash as (-), small space 
 ".---- ----- --... / ..... -.... / .---- ..--- ----- / ....- ---.. / .---- .---- ----. / ..... ...-- / ----. ---.. / ----. ---.. / .---- .---- --... / .---- .---- ...--
 "
 
-Decoding the moorse code we get
+Decoding the moorse code we get decimal numbers
 
 
 morse code decoder link [here](http://www.unit-conversion.info/texttools/morse-code/)
@@ -197,7 +197,7 @@ morse code decoder link [here](http://www.unit-conversion.info/texttools/morse-c
 
 107 56 120 48 119 53 98 98 117 113
 
-convert the decimal into ascii
+convert the decimal into ascii you will get password
 
 
 Decimal to ascii converter link [here](https://onlineasciitools.com/convert-decimal-to-ascii)
